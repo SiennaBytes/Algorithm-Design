@@ -1,6 +1,5 @@
 /*
- * Program: U3A2A1 Algorithm Design
- * Date   : October 2020
+ * Program: Algorithm Design
  * Purpose: A program asks the user to enter a number into each three questions 
  *          to find out the Factorial, Prime and Fibonacci Sequence Numbers.
  */
